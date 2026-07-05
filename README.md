@@ -24,17 +24,6 @@ Bilecik Şeyh Edebali Üniversitesi Bilgisayar Mühendisliği bölümünden yeni
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Öne Çıkan Projelerim
-
-*   🏨 **TourMind:** Bulut mimarisi üzerinde tasarlanmış, COCOMO maliyet tahmin modelleriyle desteklenen kapsamlı Otel Zinciri Rezervasyon ve CRM Sistemi.
-*   🏃‍♂️ **RotaFit:** Gemini AI destekli, OpenRouteService ve Firebase entegrasyonuna sahip akıllı koşu asistanı (Flutter).
-*   🧪 **Su Faturası Ödeme Sistemi (QA):** Sistemin güvenilirliğini simüle eden ve doğrulamak için uçtan uca 18 adet birim testi (unit test) içeren yazılım test projesi.
-*   📊 **Öğrenci Performans Tahmini:** KNN, Random Forest ve SVM algoritmaları kullanılarak eğitilmiş ve F1-skoru gibi metriklerle analiz edilmiş makine öğrenmesi modeli.
-
-### 📈 GitHub İstatistiklerim
-<!-- GitHub İstatistik Kartları (Kullanıcı adını ekleyerek dinamik hale getirebilirsin) -->
-[![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=senin-github-kullanici-adin&show_icons=true&theme=radium)](https://github.com/senin-github-kullanici-adin)
-
 ### 📫 Bana Ulaşın
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mert-mamur-ab829721a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamurmert@gmail.com)
